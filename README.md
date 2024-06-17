@@ -65,8 +65,6 @@
 <div>
   <h3 align="left">Database</h3>
   <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img width="50" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> </a>
     <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noreferrer">
       <img width="50" alt="SQL-Server" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" /> </a>
   </p>
