@@ -13,8 +13,6 @@
 <div>
   <h3 align="left">API Testing:</h3>
   <p align="left">
-    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-      <img width="50" alt="Cypress" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" /> </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img width="50" alt="Postman" src="https://www.svgrepo.com/download/354202/postman-icon.svg" /> </a>
   </p>
