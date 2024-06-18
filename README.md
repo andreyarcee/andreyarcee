@@ -3,8 +3,6 @@
 <div>
   <h3 align="left">IDE:</h3>
   <p align="left">
-    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-      <img width="50" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> </a>
     <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer">
       <img width="50" alt="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" /> </a>
   </p>
